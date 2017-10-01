@@ -1,7 +1,6 @@
 These are tools for Finnish language learners, and are built upon the products
 of the HFST, OmorFi and FinnWordNet projects (http://www.ling.helsinki.fi/kieliteknologia/tutkimus/hfst/index.shtml).
 
-transltr.pl			command line Google Translator
 omorfi.pl			Finnish morphological analyser and morpheme generator
 Repul.pm			support module for omorfi.pl
 hfst-proc			backend program for omorfi.pl which does the actual work

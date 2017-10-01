@@ -9,12 +9,9 @@ morphology.colorterm.hfst.ol	transducer file for hfst-proc to output the analysi
 				in easily readable color code
 morphology.apertium.hfst.ol	... in Apertum format
 generation.apertium.hfst.ol	generate inflicted words from user-given Apertum format
-fi.dict.dz			dict(1)-usable WorldNet database adapted for Finnish,
-fi.index			effectively a comprehensive Finnish-English dictionary
+fiwn				dict(1)-usable WorldNet database adapted for Finnish,
+				effectively a comprehensive Finnish-English dictionary
 
 The transducer files were built from http://svn.gna.org/viewcvs/omorfi/trunk
 
 hfst-proc.tar.gz is from http://hfst.svn.sourceforge.net/viewvc/hfst/trunk/hfst-proc/?pathrev=617
-
-fi.dict.dz was created from http://www.ling.helsinki.fi/en/lt/research/finnwordnet
-and converted into dict(1) format using a tool included in the dict distribution.
